@@ -1,2 +1,1 @@
-var username = "Faz";
-console.log("Hello," + username);
+console.log("DA")
